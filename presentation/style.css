@@ -1,0 +1,207 @@
+body {
+	background-image:url(images/fond.jpg);
+	margin:0;
+	background-attachment:fixed;
+	background-position:50% 50%;
+	background-size: 1920px 1080px;
+	font-size:16px;
+	font-family: 'Raleway', sans-serif;
+}
+h1, h2{
+	font-family: 'Raleway', sans-serif;
+	font-size: x-large;
+}
+h1 {
+	color:black;
+	font-weight:700;
+	letter-spacing:5px;
+	font-size:32px;
+
+}
+h2{
+	color:black;
+	font-size:24px;
+	font-weight:500;
+}
+
+a{
+	text-decoration:none;
+	color:darkblue;
+	transform: : 0,3s ease;
+}
+
+a:hover{
+	color:blue;
+}
+
+
+.w3-row_w3-padding_w3-black {
+	width: 880px;
+	margin: auto;
+	height: 53px;
+	background-color: rgb(247, 167, 169);
+	text-align: center;
+	padding: 40px 0px;
+}
+
+.w3-col_s3 {
+	padding-right: 40px;
+}
+
+.w3-button {
+	display: inline;
+	padding: 2px 5px;
+	text-align: center;
+	margin: auto;
+}
+
+.w3-button a {
+	color: white;
+	background-color: rgb(247, 167, 169);
+	padding: 45px 57px;
+	margin:10px;
+}
+
+.w3-button a:hover {
+	color: black;
+	background-color: white;
+}
+
+.card-grey {
+	text-align: center;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgba(247, 248, 251, 0.5);
+    border-radius: 8px;
+    width: 800px;
+    font-weight: bold;
+    padding: 40px 40px;
+    margin: 20px 0px;
+    height: auto;
+
+}
+
+.img-circle {
+	border-radius: 50%;
+}
+
+#img-bottom {
+	width: 150px;
+	height: 150px;
+}
+
+.btn-red {
+	background-color: darkred;
+	color: white;
+	padding: 15px 20px;
+	border-radius: 4px;
+	font-size: 10px;
+}
+
+.btn-red:hover {
+	background-color: darkred; 
+	color: white;
+	transform: : 0,4s ease;
+	font-size: 15px;
+}
+
+.pts_forts {
+	text-align: left;
+}
+
+.pts_forts a {
+	color: black;
+}
+
+.list-inline {
+	list-style: none;
+	padding-left: 0px;
+}
+
+.list-inline li {
+	display: inline;
+	padding: 10px;
+}
+
+.list-inline i {
+	font-size: 50px;
+	color: rgb(59, 89, 152);
+
+}
+
+.list-inline i:hover {
+	font-size: 65px;
+	color: darkblue;
+
+}
+
+#introduction p {
+	margin-top: 40px;
+	margin-bottom: 40px;
+
+}
+
+#icon-red {
+	color: rgb(186,85,211);
+	font-size: 50px;
+}
+
+#icon-red:hover {
+	color: rgb(148,0,211);
+	font-size: 65px;
+
+}
+
+.coco {
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 8px;
+    width: 800px;
+    font-weight: bold;
+    padding: 0px 0px;
+    margin: 20px 0px;
+    height: 22px;
+	text-align: right;
+
+}
+
+.list {
+	list-style: none;
+	text-align: left;
+	min-width: 100px;
+}
+
+.container {
+	width: 880px;
+	margin:40px auto;
+}
+
+@media (max-width: 720px) {
+  .container {
+    width: 500px;
+  }
+
+@media (max-width: 720px) {
+  .container {
+    width: 500px;
+  }
+
+@media (max-width: 540px) {
+  .container {
+    width: 300px;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
